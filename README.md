@@ -3,7 +3,7 @@
 # Table of contents
 1. [Node Ecosystem](#NodeEcosystem)
 2. [Express, NPM, TDD, CI/CD](#Express)
-3. 2. [Data Structures and Algorithms](#DataStructure)
+3. [Data Structures and Algorithms](#DataStructure)
 
 
 
@@ -114,7 +114,7 @@ GitHub is a collaborative platform for software development that supports Contin
 Big O notation is a mathematical notation used in computer science to describe the upper bound or worst-case scenario of the time or space complexity of an algorithm or function.
 
 and here some parameters we shoult tacking in account when deciding which data structure is best suited to solve a particular problem:
- 
+
 - Required Operations: Understand the specific operations that need to be performed on the data. Do you need fast insertion, deletion, searching, or retrieval? Different data structures excel at different operations, so choose one that aligns with your requirements.
 
 - Time Complexity: Evaluate the time complexity of the operations you need. Consider the average and worst-case time complexity for insertion, deletion, search, and retrieval operations. Choose a data structure that provides efficient operations for your specific use case.
