@@ -3,10 +3,11 @@
 # Table of contents
 1. [Node Ecosystem](#NodeEcosystem)
 2. [Express, NPM, TDD, CI/CD](#Express)
+3. 2. [Data Structures and Algorithms](#DataStructure)
 
 
 
-## Class - 1 - Node Ecosystem <a name="NodeEcosystem"></a>
+## Class - 1-a - Node Ecosystem <a name="NodeEcosystem"></a>
 The Node.js ecosystem is a robust and diverse collection of tools, libraries, and frameworks built around Node.js, enabling developers to create scalable and efficient server-side applications using JavaScript.
 
 1. How would you describe Node to a non-technical friend?
@@ -31,7 +32,7 @@ When encountering the title "Node Ecosystem," you can anticipate learning about 
 After reviewing the Node.js ecosystem, your learning goals may include gaining a comprehensive understanding of its frameworks, libraries, and tools, and applying that knowledge to build scalable applications while staying updated on the latest trends and best practices.
 
 -------------------------------------------------------------------------------------------------------------
-## Class - 2 - Express, NPM, TDD, CI/CD <a name="Express"></a>
+## Class - 1-b - Express, NPM, TDD, CI/CD <a name="Express"></a>
 ### An introduction to NodeJS and Express
 
 1. Explain middleware, answer as though I were a non-technical recruiter.
@@ -106,3 +107,39 @@ Continuous Delivery is the practice of continuously delivering software to a pro
 
 3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 GitHub is a collaborative platform for software development that supports Continuous Integration and Continuous Deployment. It serves as a central repository for code, allowing teams to track changes and collaborate through pull requests and code reviews. Integrated with CI tools, GitHub automates the building and testing of code changes, ensuring continuous validation. It also seamlessly integrates with deployment platforms, enabling automated deployment of validated code to production environments.
+---------------------------------------
+## prep - Data Structures and Algorithms <a name="DataStructure"></a>
+1. What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
+
+Big O notation is a mathematical notation used in computer science to describe the upper bound or worst-case scenario of the time or space complexity of an algorithm or function.
+
+and here some parameters we shoult tacking in account when deciding which data structure is best suited to solve a particular problem:
+ 
+- Required Operations: Understand the specific operations that need to be performed on the data. Do you need fast insertion, deletion, searching, or retrieval? Different data structures excel at different operations, so choose one that aligns with your requirements.
+
+- Time Complexity: Evaluate the time complexity of the operations you need. Consider the average and worst-case time complexity for insertion, deletion, search, and retrieval operations. Choose a data structure that provides efficient operations for your specific use case.
+
+- Space Complexity: Assess the space requirements of the data structure. Some data structures use more memory than others, so it's important to consider the memory constraints of your system.
+
+- Data Ordering: Determine whether the order of the data elements matters. If you require the data to be ordered or sorted in a specific way, consider data structures like arrays or balanced binary search trees.
+
+- Flexibility: Consider how flexible the data structure needs to be. Will you be frequently modifying the structure or the data it contains? Some data structures, like linked lists, offer flexibility for efficient insertion and deletion operations, while others, like arrays, provide efficient random access.
+
+- Existing Implementations: Evaluate the availability of existing implementations or libraries for the data structure in your programming language. Utilizing established implementations can save time and effort in development.
+
+- Domain-Specific Considerations: Take into account any specific requirements or constraints of your problem domain. For example, if you need to model a hierarchical relationship, a tree-like data structure such as a trie or a graph might be appropriate.
+
+By considering these factors, you can make an informed decision and select the data structure that best suits the problem at hand, ensuring efficient and effective data manipulation and retrieval.
+
+2. How can we ensure that we’ll avoid an infinite recursive call stack?
+- what is a recursion? 
+
+Recursion is a programming technique where a function calls itself directly or indirectly to solve a problem by breaking it down into smaller, similar subproblems. In a recursive function, the function repeatedly invokes itself with different inputs until it reaches a base case that does not require further recursion. Recursion can be an elegant way to solve complex problems by leveraging the idea of solving smaller instances of the same problem.
+
+
+To avoid an infinite recursive call stack:
+
+1. Ensure there is a base case that terminates the recursion.
+2. Ensure that the recursive function progresses towards the base case with each recursive call (closer to termination).
+3. Limit the depth of recursion or implement tail recursion optimization if available in the programming language to optimize recursive calls.
+
