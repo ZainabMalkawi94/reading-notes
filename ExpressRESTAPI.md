@@ -12,9 +12,8 @@
 3. How would you describe a constructor and contextual “this” to a non-technical friend?
 
     A constructor acts as a blueprint that defines how objects should be created, setting up their initial properties and behaviors. The contextual "this" keyword refers to the current object being used or accessed, enabling access to its specific properties and methods. Using a constructor and "this" allows us to create and manipulate multiple objects based on the same template, each with its own distinct set of properties and behaviors. Well done!
------
 
-
+-------------
 ### Using Express Routing
 
 1. Within Express, what does routing refer to?
