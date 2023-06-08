@@ -2,7 +2,8 @@
 ### An introduction to NodeJS and Express
 
 1. Explain middleware, answer as though I were a non-technical recruiter.
-In software development, middleware can be described as a bridge between different components of a software system. It acts as a mediator, helping these components communicate and work together effectively. It's like a helpful assistant that manages and processes data as it moves through the different parts of an application. Middleware allows developers to add extra features, validate data, handle errors, and ensure smooth interactions between different parts of the application without needing to make direct changes to the core components. It's a flexible tool that enhances the functionality and efficiency of software systems.
+- In software development, middleware can be described as a bridge between different components of a software system. 
+- It acts as a mediator, helping these components communicate and work together effectively. It's like a helpful assistant that manages and processes data as it moves through the different parts of an application. Middleware allows developers to add extra features, validate data, handle errors, and ensure smooth interactions between different parts of the application without needing to make direct changes to the core components. It's a flexible tool that enhances the functionality and efficiency of software systems.
 
 2. Express the most popular __ __ ____.
 Node.js frameworks.
