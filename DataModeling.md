@@ -12,6 +12,7 @@
 3. Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.
 
     SQL databases are like fixed-sized boxes where you have to carefully arrange your things, making it harder to add more as you run out of space. NoSQL databases are like expandable containers where you can throw in more stuff without worrying about organization, making it easier to accommodate growth. So, NoSQL databases offer more scalability and flexibility compared to SQL databases when it comes to handling increasing amounts of data.
+    
 --- 
 ### sql modeling techniques
 
@@ -30,8 +31,6 @@
 ### Videos (sql vs nosql)
 
 1. How do we treat keywords and parameters differently in SQL syntax?
-
-
     In SQL syntax, keywords are reserved words with predefined meanings in the language, such as SELECT, FROM, or WHERE. They are not case-sensitive and are typically written in uppercase. Parameters, on the other hand, are values that are passed into SQL statements using placeholders, such as ?, :name, or @parameter_name, allowing for dynamic and reusable queries.
 
 2. Define normalization within the context of schemas and data.
@@ -47,8 +46,8 @@ Here's a non-technical explanation of the three relationship types:
 
     3. Many-to-Many: Imagine it as a relationship where multiple items are connected to multiple other items. For instance, think of students and classes. A student can enroll in multiple classes, and each class can have multiple students.
 
-    
 
-    These relationship types help recruiters understand how data can be organized and related, aiding in identifying the best database design for managing and analyzing information effectively.
------------------------
+
+        These relationship types help recruiters understand how data can be organized and related, aiding in identifying the best database design for managing and analyzing information effectively.
+    -----------------------
 return to [Main Reading File](./README.md)
