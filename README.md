@@ -6,3 +6,4 @@
 3. [Data Structures and Algorithms](./DataStructures.md)
 4. [Express REST API](./ExpressRESTAPI.md)
 5. [Linked List](./LinkedList.md)
+6. [Data Modeling](./DataModeling.md)
