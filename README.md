@@ -7,3 +7,5 @@
 4. [Express REST API](./ExpressRESTAPI.md)
 5. [Linked List](./LinkedList.md)
 6. [Data Modeling](./DataModeling.md)
+7. [Authentication](./Authentication.md)
+
