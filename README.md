@@ -8,4 +8,5 @@
 5. [Linked List](./LinkedList.md)
 6. [Data Modeling](./DataModeling.md)
 7. [Authentication](./Authentication.md)
+8. [Bearer Authorization](./BearerAuthorization.md)
 

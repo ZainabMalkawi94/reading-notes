@@ -1,4 +1,4 @@
-## Class - 1-a - Node Ecosystem 
+## Node Ecosystem 
 The Node.js ecosystem is a robust and diverse collection of tools, libraries, and frameworks built around Node.js, enabling developers to create scalable and efficient server-side applications using JavaScript.
 
 1. How would you describe Node to a non-technical friend?
