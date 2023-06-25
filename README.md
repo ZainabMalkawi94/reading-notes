@@ -10,5 +10,4 @@
 7. [Authentication](./Authentication.md)
 8. [Bearer Authorization](./BearerAuthorization.md)
 9. [Access Control (ACL)](./AccessControl.md)
-
-
+10. [Authorization/Authentication](./AuthorizationAuthentication.md)
