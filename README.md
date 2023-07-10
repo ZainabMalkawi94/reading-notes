@@ -15,4 +15,4 @@
 12. [Event Driven Applications](./EventDrivenApplications.md)
 13. [Socket.io](./EventDrivenApplications.md)
 14. [Message Queues](./MessageQueues.md)
-15. [Event Driven Architecture](./MessageQueues.md)
+15. [Event Driven Architecture](./)
