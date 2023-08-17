@@ -23,3 +23,4 @@
 20. [AWS: API, Dynamo and Lambda](./AWSAPIDynamoandLambda.md)
 21. [Component Based UI](./ComponentBasedUI.md)
 22. ["useState()" Hook](./UseStateHook.md)
+23. [Component Lifecycle / useEffect Hook](./UseEffect.md)
