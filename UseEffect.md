@@ -128,6 +128,5 @@
     In this example, the effect sets up an interval to update the time every second. The cleanup function clears the interval when the component is unmounted, ensuring that the interval doesn't continue running after the component is removed from the DOM.
   In summary, the return value from the effect's logic function in the `useEffect` hook is vital for proper resource management, memory leak prevention, performance optimization, and maintaining the stability of your React components.
 
-  
 ----------------------
 return to [Main Reading File](./README.md)
