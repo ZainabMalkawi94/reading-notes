@@ -25,4 +25,4 @@
 22. ["useState()" Hook](./UseStateHook.md)
 23. [Component Lifecycle / useEffect Hook](./UseEffect.md)
 24. [Advanced State with Reducers](./AdvancedStatewithReducers.md)
-25. [Hash Table]()
+25. [Hash Table](./HashTable.md)
