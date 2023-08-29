@@ -27,3 +27,4 @@
 24. [Advanced State with Reducers](./AdvancedStatewithReducers.md)
 25. [Hash Table](./HashTable.md)
 26. [Context API](./ContextAPI.md)
+27. [Context API - Behaviors](./ContextAPIBehaviors.md)
