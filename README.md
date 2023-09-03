@@ -29,4 +29,5 @@
 26. [Context API](./ContextAPI.md)
 27. [Context API - Behaviors](./ContextAPIBehaviors.md)
 28. [Graphs](./Graphs.md)
-29. [<Login /> and <Auth />](./LoginandAuth.md)
+29. [Login  and Auth](./LoginandAuth.md)
+30. [API Integration](./APIIntegration.md)
