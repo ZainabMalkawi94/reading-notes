@@ -1,4 +1,4 @@
-## Login and Auth 
+## Application State with Redux
 ### First Principle of Redux:
 The first principle of Redux is **"Single Source of Truth"**. This means that the entire state of your application is stored in a single JavaScript object called the **"store"**. This store serves as a centralized hub for managing the state of your application, making it easier to understand and control the data flow.
 
