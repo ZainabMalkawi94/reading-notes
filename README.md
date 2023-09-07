@@ -31,4 +31,4 @@
 28. [Graphs](./Graphs.md)
 29. [Login  and Auth](./LoginandAuth.md)
 30. [API Integration](./APIIntegration.md)
-31. [Redux]()
+31. [Redux](./Redux.md)
