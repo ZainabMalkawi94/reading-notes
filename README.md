@@ -32,3 +32,4 @@
 29. [Login  and Auth](./LoginandAuth.md)
 30. [API Integration](./APIIntegration.md)
 31. [Redux](./Redux.md)
+32. [Redux - Combined Reducers](./CombinedReducers.md)
