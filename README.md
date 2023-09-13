@@ -33,3 +33,4 @@
 30. [API Integration](./APIIntegration.md)
 31. [Redux](./Redux.md)
 32. [Redux - Combined Reducers](./CombinedReducers.md)
+33. [Redux - Asynchronous Actions](./ReduxAsynchronousActions.md)
