@@ -34,4 +34,4 @@
 31. [Redux](./Redux.md)
 32. [Redux - Combined Reducers](./CombinedReducers.md)
 33. [Redux - Asynchronous Actions](./ReduxAsynchronousActions.md)
-34. [Redux - Additional Topics](./ReduxAsynchronousActions.md)
+34. [Redux - Additional Topics](./ReduxAdditionalTopics.md)
